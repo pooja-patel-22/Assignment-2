@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+	<Ad>
+		<ImageUrl>~\images\o1.png</ImageUrl>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\o2.png</ImageUrl>
+		<Impressions>30</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\o3.png</ImageUrl>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\o4.png</ImageUrl>
+		<Impressions>20</Impressions>
+	</Ad>
+</Advertisements>
+
